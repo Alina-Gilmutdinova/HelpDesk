@@ -1,6 +1,5 @@
 # HelpDesk  
-Прототип API для сервиса управления заявками  
-heroku -                  
-фронтенд проект - 
+heroku -    https://heroku-account-alina.herokuapp.com/              
+
 
 
